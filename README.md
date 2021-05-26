@@ -1,5 +1,7 @@
 # Tailstack
 
+(From: https://github.com/virkillz/tailstack)
+
 This is a fork from other project: [stitches](https://github.com/amiechen/stitches-template-generator)
 
 The goal is to provide complete tool to play with tailwind.
